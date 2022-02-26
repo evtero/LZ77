@@ -11,3 +11,7 @@ The `decompress()` function receives as a parameter the output (**list of tuples
 ## Test examples
 In test.py the `test()` function checks that the original text is the same as the uncompressed one.
 This LZ77 code is implemented for not very long texts, so the input text is entered by keyboard, as well as the window size. The list of compressed tuples, the number of bits they would occupy and the decompressed text are printed on the screen.
+
+2 examples:
+![](imgs/lz77_1.png)
+![](imgs/lz77_2.png)
